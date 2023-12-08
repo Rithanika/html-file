@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Physical Tags</title></title>
+        meta
+    </head>
+    <body>
+        <b>hey</b>
+        <big>beautiful </big>
+        <small>thank you</small>
+        <i>defines small thing</i>
+        hey
+        <sup>that is amazing </sup>
+        hello
+        <sub>will be amazing</sub>
+        <u>life hits hard</u>
+        <tt>you</tt>
+        <hr>nice
+        
+    </body>
+</html>
